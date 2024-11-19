@@ -19,7 +19,7 @@ const Copyright = () => {
         <Typography variant="body2" color="primary" align="center">
             {"© "}
             <Link color="primary" href="#">
-                Life Prime Ti
+                FK Automatize
             </Link>{" "}
             {new Date().getFullYear()}
             {"."}

@@ -492,7 +492,7 @@ const MainListItems = (props) => {
             {!collapsed && <React.Fragment>
               <Divider />
               <Typography style={{ fontSize: "12px", textAlign: "center", fontWeight: "bold", marginTop: "5px" }}>
-                Life Prime TI
+                FK Automatize
               </Typography>
             </React.Fragment>}
 			
